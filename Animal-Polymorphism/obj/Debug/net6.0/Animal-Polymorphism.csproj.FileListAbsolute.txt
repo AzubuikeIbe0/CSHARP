@@ -1,0 +1,12 @@
+A:\TU DUBLIN\4TH YEAR\ENTERPRISE-APP-DEV\Animal-Polymorphism\obj\Debug\net6.0\Animal-Polymorphism.csproj.AssemblyReference.cache
+A:\TU DUBLIN\4TH YEAR\ENTERPRISE-APP-DEV\Animal-Polymorphism\obj\Debug\net6.0\Animal-Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+A:\TU DUBLIN\4TH YEAR\ENTERPRISE-APP-DEV\Animal-Polymorphism\obj\Debug\net6.0\Animal-Polymorphism.AssemblyInfoInputs.cache
+A:\TU DUBLIN\4TH YEAR\ENTERPRISE-APP-DEV\Animal-Polymorphism\obj\Debug\net6.0\Animal-Polymorphism.AssemblyInfo.cs
+A:\TU DUBLIN\4TH YEAR\ENTERPRISE-APP-DEV\Animal-Polymorphism\obj\Debug\net6.0\Animal-Polymorphism.csproj.CoreCompileInputs.cache
+A:\TU DUBLIN\4TH YEAR\ENTERPRISE-APP-DEV\Animal-Polymorphism\bin\Debug\net6.0\Animal-Polymorphism.deps.json
+A:\TU DUBLIN\4TH YEAR\ENTERPRISE-APP-DEV\Animal-Polymorphism\bin\Debug\net6.0\Animal-Polymorphism.dll
+A:\TU DUBLIN\4TH YEAR\ENTERPRISE-APP-DEV\Animal-Polymorphism\bin\Debug\net6.0\Animal-Polymorphism.pdb
+A:\TU DUBLIN\4TH YEAR\ENTERPRISE-APP-DEV\Animal-Polymorphism\obj\Debug\net6.0\Animal-Polymorphism.dll
+A:\TU DUBLIN\4TH YEAR\ENTERPRISE-APP-DEV\Animal-Polymorphism\obj\Debug\net6.0\refint\Animal-Polymorphism.dll
+A:\TU DUBLIN\4TH YEAR\ENTERPRISE-APP-DEV\Animal-Polymorphism\obj\Debug\net6.0\Animal-Polymorphism.pdb
+A:\TU DUBLIN\4TH YEAR\ENTERPRISE-APP-DEV\Animal-Polymorphism\obj\Debug\net6.0\ref\Animal-Polymorphism.dll
